@@ -1,0 +1,2 @@
+# mizutama-ichi-erectorpipe-fusion360
+Fusion360でイレクターパイプをエミュレートするためのモデルデータ集
